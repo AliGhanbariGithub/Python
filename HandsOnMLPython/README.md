@@ -1,3 +1,0 @@
-These are the python code I wrote as answers for hands on machine learning with scikit-learn book exercises in the field of advanced machine learning and deep learning with focus on solving different realistic problems...
-
-Email : 1993alighanbari@gmail.com
